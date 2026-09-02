@@ -44,8 +44,8 @@ Computer Engineering graduate (Universitat de Lleida) looking for a role where I
 a problem end to end — **AI Solutions / Forward Deployed Engineering, AI automation, or
 an engineering role close to the business side**. Open to remote work and to relocating.
 
-**Languages** — Spanish and Catalan (native) · English (B2)
+**Languages** — Spanish and Catalan (native) · English (B2) · Polish(B2)
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Portfolio](YOUR-PORTFOLIO-URL) · your-email@example.com
+[LinkedIn](www.linkedin.com/in/jakub-wysocki-585a62294) · wysockij25@gmail.com
