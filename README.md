@@ -40,7 +40,7 @@ to walk through the architecture and the trade-offs in a conversation.
 
 ## Right now
 
-Computer Engineering graduate (Universitat de Lleida) looking for a role where I can own
+Computer Engineering graduate (Universitat de Lleida, Campus Igualada) looking for a role where I can own
 a problem end to end — **AI Solutions / Forward Deployed Engineering, AI automation, or
 an engineering role close to the business side**. Open to remote work and to relocating.
 
