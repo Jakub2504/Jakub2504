@@ -48,4 +48,4 @@ an engineering role close to the business side**. Open to remote work and to rel
 
 ---
 
-[LinkedIn](www.linkedin.com/in/jakub-wysocki-585a62294) · wysockij25@gmail.com
+[LinkedIn](www.linkedin.com/in/jakub-wysocki-585a62294) · [GitHub](https://github.com/Jakub2504) · [Portofolio](https://jakub-wysocki-cv.netlify.app/) · wysockij25@gmail.com
