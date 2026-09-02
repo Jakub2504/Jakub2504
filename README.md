@@ -1,6 +1,6 @@
 # Jakub Wysocki
 
-**Computer Engineering graduate — I build AI systems that make it all the way into production.**
+**Computer Engineering graduate — I build AI-enabled software that solves real-world problems.**
 
 Most of my work sits between a model and a real workflow: taking a messy problem,
 deciding what actually needs to be built, and shipping the whole path — data, model,
